@@ -1,0 +1,42 @@
+body
+{
+    width:400px;
+    height: 600px;
+    margin-left: auto;
+    margin-right:auto;
+    padding:20px;
+    background-image: url("web.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+
+}
+.contain
+{
+    color: crimson;
+    padding: 10px;
+}
+.para
+{
+    color: aqua
+}
+.box
+{
+    border-left: 3px solid yellow;
+    border-right: 3px solid yellow;
+    border-top: 1px solid yellow;
+    border-bottom: 1px solid yellow;
+    padding: 15px;
+    color: red;
+}
+.about
+{
+    margin-top: auto;
+    padding-top: auto;
+    border-left: 3px solid blue;
+    border-right: 3px solid blue;
+    border-top: 1px solid blue;
+    border-bottom: 1px solid blue;
+    padding: 15px;
+    color: red;
+}
